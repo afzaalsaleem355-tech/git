@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets / environment
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# Logs & caches
+*.log
+.cache/
+
+# Large data (adjust as needed)
+data/raw/
+data/processed/
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.parquet
+*.7z
+*.zip
+*.tar
+*.tar.gz
+
+# Generated figures (keep source scripts instead)
+figures/*.png
+figures/*.jpg
+figures/*.jpeg
+figures/*.tif
+figures/*.tiff
+figures/*.pdf
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
