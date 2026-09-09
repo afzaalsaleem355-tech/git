@@ -1,0 +1,11 @@
+rank,SMILES,predicted_proxy_score,novelty,MW,SAscore
+1,O=P(O)(O)Oc1nc(-c2ccccc2)nc(-c2ccccc2)n1,0.5435,0.6061,329.25,2.250
+2,O=P(O)(O)c1nc(-c2ccccc2)nc(-c2ccccc2)n1,0.5431,0.5714,313.25,2.320
+3,O=P(O)(O)Oc1cc(-c2ccccc2)cc(-c2ccccc2)c1,0.5379,0.5333,326.29,1.951
+4,O=P(O)(O)Oc1nc(OP(=O)(O)O)nc(-c2ccccc2)n1,0.5224,0.6061,349.13,2.919
+5,O=P(O)(O)Oc1nc(O)nc(-c2ccccc2)n1,0.5151,0.6486,269.15,2.751
+6,O=P(O)(O)c1nc(-c2ccccc2)nc(P(=O)(O)O)n1,0.5120,0.5714,317.13,3.086
+7,O=P(O)(O)c1nc(-c2ccccc2)nc(S(=O)(=O)O)n1,0.5117,0.6667,317.22,2.936
+8,O=P(O)(O)Oc1nc(-c2ccccc2)nc(S(=O)(=O)O)n1,0.5112,0.6829,333.22,2.851
+9,O=P(O)(O)Oc1nc(-c2ccccc2)nc(P(=O)(O)O)n1,0.5102,0.6579,333.13,3.043
+10,O=P(O)(O)Oc1nc(O)nc(OP(=O)(O)O)n1,0.5059,0.7419,289.03,3.749

@@ -1,0 +1,3 @@
+n_samples=63
+RandomForest R2=0.7784 MAE=0.0632
+Ridge R2=0.7761
